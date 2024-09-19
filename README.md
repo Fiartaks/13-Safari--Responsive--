@@ -17,7 +17,7 @@ Bu projede iki farklı objeyi aynı karede kullanarak etkileyici bir görsel den
 
 - **HTML:** Basit ve sezgisel bir yapı oluşturmak için HTML5 kullanıldı.
 - **CSS:** Şık bir tasarım için CSS ile stiller oluşturuldu. 
-- **Video ve Görsel:** Videoyu arka plana yerleştirerek, üzerine bir görsel koyarak eşsiz bir görsel etki yaratıldı. 📸✨
+- **Video ve Görsel:** Görseli arka plana yerleştirerek, üzerine bir video koyarak eşsiz bir animasyon etkisi yaratıldı. 📸✨
 
 ### 🎥 Örnek Kod
 
