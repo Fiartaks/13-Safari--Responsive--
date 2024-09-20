@@ -1,4 +1,4 @@
-# 🦓🐘🥳 Safari Sitesi 🦁🐘🥳 
+# 🦓🐘🥳 Safari 🦁🐘🥳 
 
 Merhaba! 👋 Bu proje, Afrika'nın muhteşem doğasını ve görsellerini sunan bir Safari sitesidir. 🦓🌳
 
